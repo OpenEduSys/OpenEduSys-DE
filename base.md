@@ -7,7 +7,15 @@ Da jeder beim Verfassen helfen darf, wird sichergestellt, dass jeder das Ergebni
 
 ### Der Sinn von Schule
 
-Schule wurde so konzipiert, dass der Schüler sich maximal viele kleinlichen Details einprägt. Doch in einer Welt, in der diese Fakten und Daten so nah, wie noch nie zuvor, sind, ist diese Einprägen nur eine Bremse für das beibringen von wichtigen Konzepten.
+Schule wurde so konzipiert, dass der Schüler sich maximal viele kleinlichen Details einprägt. Doch in einer Welt, in der diese Fakten und Daten so nah, wie noch nie zuvor, sind, ist diese Einprägen nur eine Bremse für das beibringen von wichtigen Konzepten. Die Reform soll deshalb den Lehrplan so ändern, dass Praxis und Spass im Vordergrund steht. Die angeborene Neugier soll weiter gefördert werden.
+
+### Schüler
+Kinder und damit Schüler sind von Geburt an sehr neugierig. Diese Neugier wird aber durch einseitigen Unterricht verschwendet.
+
+Jeder Schüler lernt anders besser. So sollte ein Lehrer so viele Lerntypen wie möglich ansprechen. Praktisches trainieren, singen, malen etc. alles sind valide möglichkeiten, einen Schüler zum lernen der wenigen notwendigen Fakten anzuregen.
+Auch sollte dem Schüler soviel wie möglich die Mitwahl an tätigkeiten gelassen werden. Wenn der Schüler nicht an einer bestimmten Aufgabe teilnehmen, soll dies ihm gestattet werden, insofern, der Schüler schon das nötige Niveau besitzt. Auch sollte die Lernumgebung freundlicher gestaltet werden (siehe §1).
+
+
 
 
 
