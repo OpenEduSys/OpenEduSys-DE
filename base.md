@@ -1,3 +1,16 @@
+## Vorwort
+
+Das deutsche Schulsystem wurde lange nichtmehr verändert, weshalb viele deutsche Bürger den Eindruck haben, ihr Kinder würden nicht mehr für das Leben vorbereitet.
+
+Diese von der Allgemeinheit verfasste Schulreform ist nicht als solche zu sehen, sondern als Anregung an die Politik, unser Schulsystem grundlegend zu ändern.
+Da jeder beim Verfassen helfen darf, wird sichergestellt, dass jeder das Ergebnis als solches unterstützen kann.
+
+### Der Sinn von Schule
+
+Schule wurde so konzipiert, dass der Schüler sich maximal viele kleinlichen Details einprägt. Doch in einer Welt, in der diese Fakten und Daten so nah, wie noch nie zuvor, sind, ist diese Einprägen nur eine Bremse für das beibringen von wichtigen Konzepten.
+
+
+
 There should be 12 grades
 
 Split by ability and not by age
