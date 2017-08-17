@@ -34,15 +34,32 @@ In allen Schulen aus Deutschland muss der Lehrplan, die Infrastruktur und das Sc
 <ul>
 <li> Fremdsprachen ausser Englisch
 <li> Religiöse Ausbildung
+<li> Ethische Ausbildung
 <li> Sportliche Aussbildung
 </ul>
 
 Andere Fächer müssen als Arbeitsgemeinschaften angeboten werden.
 
-### §1.2 
+Das Abitur muss nach dem 12. Lehrgang angeboten werden, nach dem Abitur darf jedoch ein optioneller Lehrgang angeboten werden. 
+
+### §1.2 Schulische Infrastruktur
+In jeder schule muss jedem Schüler eine Stunde pro Woche kostenlose Psychologische Hilfe angeboten werden, sollte dieser sich in seiner Lernumgebung unwohl fühlen. Sollte der Psychologe ermessen, dass der Schüler keine Hilfe braucht, darf dieser seine Hilfe nach zwei Therapiestunden verweigern. Bei solch einer Verweigerung darf der Schüler diesen Dienst zwei Monate lang nicht mehr in Anspruch nehmen.
+
+Ausserdem muss jede Schule einen abgesperrten Aussenraum haben, der für pro Schüler mindestens 3m² gross sein muss, in den Schüler wärend der Pause gehen dürfen. Ein weiterer Innenraum sollte ausserdem bereitgestellt werden, in den Schüler ebenfalls während der Pause gehen dürfen.
+
+Ein kostenloser Internetzugang sollte jedem Schüler bereitgestellt werden. Dieser muss jedoch mit einem Filter für nicht jugendfreie Inhalte ausgestattet werden.
+
+### §1.3 Ferienregelung
+Jeder Schüler muss gleichviele Ferien bekommen. An Feiertagen muss der Schule temporär von der Schule befreit werden.
+
+Ausserhalb dieser Freien Zeit sollte jeder Schüler über zwanzig Tagen verfügen, an denen er sich von der Schule befreien darf.
+Bei krankheit darf der Schüler sich auch befreien lassen, wenn er mehr als zwanzig Tage schon abgemeldet war.
+
+### §1.4 Bewertung und Leistungdüberprüfungen
 
 
-There should be 12 grades
+
+
 
 Split by ability and not by age
 
