@@ -15,8 +15,31 @@ Kinder und damit Schüler sind von Geburt an sehr neugierig. Diese Neugier wird 
 Jeder Schüler lernt anders besser. So sollte ein Lehrer so viele Lerntypen wie möglich ansprechen. Praktisches trainieren, singen, malen etc. alles sind valide möglichkeiten, einen Schüler zum lernen der wenigen notwendigen Fakten anzuregen.
 Auch sollte dem Schüler soviel wie möglich die Mitwahl an tätigkeiten gelassen werden. Wenn der Schüler nicht an einer bestimmten Aufgabe teilnehmen, soll dies ihm gestattet werden, insofern, der Schüler schon das nötige Niveau besitzt. Auch sollte die Lernumgebung freundlicher gestaltet werden (siehe §1).
 
+### Lehrer 
+Lehrer werden oft untergeschätzt. So werden diese sehr niedrig bezahlt, obwohl sie jeden tag bis spät in die Nacht arbeiten.
+Sie bekommen wenig Zeit um ihre Lehrmethoden zu verbessern, was dann direkt dem Schüler beim Lernen beinträchtigt. Ausserdem müssen Lehrer oft immer dasselbe wiederholen, weshalb desinteresse am unterrichtetem Fach oft die Folge ist.
+
+Oft sehen Lehrer sich auch als "über" den unterrichtetem Kind. Dieses Verhältniss ist falsch; Lehrer sollten sich eher als "Lernpartner" sehen, die auch Schülern beim lernen von zusätzlichem Stoff helfen sollten.
 
 
+# Schulgesetz: Änderungsvorschläge
+
+## §1 Infrastruktur
+Die Infrastruktur ist einer der Wichtigen Punkte, da sie den Schüler jeden Tag begleitet. 
+
+
+### §1.1 Deutschlandweite Infrastruktur
+In allen Schulen aus Deutschland muss der Lehrplan, die Infrastruktur und das Schulgesetz gleich sein. Dadurch soll gesichert werden, dass das Bildungsniveau deutschlandweit gleich ist. Es dürfen nur die folgenden Fächer zusätzlich angeboten werden:
+
+<ul>
+<li> Fremdsprachen ausser Englisch
+<li> Religiöse Ausbildung
+<li> Sportliche Aussbildung
+</ul>
+
+Andere Fächer müssen als Arbeitsgemeinschaften angeboten werden.
+
+### §1.2 
 
 
 There should be 12 grades
