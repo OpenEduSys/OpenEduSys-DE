@@ -30,10 +30,10 @@ Per lo studente la scuola non deve essere un luogo di detenzione ma un luogo ami
 * Non ci saranno test eccetto che per uno all'inizio di ogni anno per verificare l'abilità dello studente e per decidere in quale classe metterlo.
 * I bambini potranno masticare la gomma e ascoltare la musica fintanto che ascoltino l'insegnante.
 * La comunicazione tra studenti fintanto che non disturbi la lezione non dovrebbe essere punita ma premiata.
-* (Da tradurre)
+* La creatività degli studenti non dovrebbe andare persa.
 * La scuola dovrebbe essere basata sulla pratica e non sulla teoria
 * Gli studenti dovrebbero avere dei giorni di riposo e li potranno sfruttare quando e come vorranno, se questi sono malati non vengono scalati i giorni.
-* (Da tradurre)
+* Ci dovrebbe essere più connessione tra le differenti materie.
 * I "Compiti a casa" dovrebbero essere opzionali ma comunque consentiti se qualche studente voglia esercitarsi di più a casa(Possibilmente se non ha capito completamente la lezione).
 * Una volta al mese gli studenti potranno scegliere di sostenere un test che gli consenta di passare alla classe successiva.
 * Per i test dovrebbe essere consentito di usare Google(Solo in piccola parte).
