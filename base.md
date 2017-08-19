@@ -108,7 +108,26 @@ Zusätzlich dürfen Arbeitsmaterialien in Form von Papier oder drei Dimensionale
 
 Ein Schüler darf nicht gezwungen werden, schriftliche Notizen des Unterrichts zu machen. Schriftliche Notizen dürfen auch nicht bewertet werden. 
 
-### §2.3 
+### §2.3 Unterricht
+
+Wärend des Unterrichts muss der Lehrer seinen Schülern die vom Lehrplan festgelegte Inhalte beibringen.
+Hierbei muss er darauf aufpassen, seine Schüler immer einzubeziehen. Eine gute Grundregel ist, dass der Lehrer alle 3 Minuten einen Schüler zum beitragen beim Unterricht motivieren sollte.
+
+Schüler dürfen wärend des Gesamten Unterrichtes 
+
+<ul>
+<li> Musik über Kopfhörer hören
+<li> Kaugummi kauen
+<li> Ihr handy benutzen
+</ul>
+
+Der Lehrer darf dies jedoch in folgenen spezifischen Fällten verbieten:
+
+<ul>
+<li> Gefährdung durch das Kaugummikauen (z.B. in Fachsäälen)
+<li> Nachweislich zu niedriges Niveau des Schülers (folgt dem Unterricht nicht, kann keine Positiven Beiträge leisten)
+<li> Störung anderer Schüler
+</ul>
 
 
 ---------------------------------------------
