@@ -49,17 +49,69 @@ Ausserdem muss jede Schule einen abgesperrten Aussenraum haben, der für pro Sch
 
 Ein kostenloser Internetzugang sollte jedem Schüler bereitgestellt werden. Dieser muss jedoch mit einem Filter für nicht jugendfreie Inhalte ausgestattet werden.
 
-### §1.3 Ferienregelung
+### §1.3 Ferien
 Jeder Schüler muss gleichviele Ferien bekommen. An Feiertagen muss der Schule temporär von der Schule befreit werden.
 
 Ausserhalb dieser Freien Zeit sollte jeder Schüler über zwanzig Tagen verfügen, an denen er sich von der Schule befreien darf.
 Bei krankheit darf der Schüler sich auch befreien lassen, wenn er mehr als zwanzig Tage schon abgemeldet war.
 
-### §1.4 Bewertung und Leistungdüberprüfungen
+### §1.4 Bewertung
+
+Nach einem Beendetem Jahr muss eine Schriftliche bewertung durch die Lehrer geschehen.
+Solch eine Bewertung soll als Richtwert für die Eltern gelten.
+
+Am Ende eines Schuljahres muss jeder Schüler eine Überprüfung, Inhaltlich vom Lehrplan festgelegt, bestehen, damit seine neue Klassenstufe eingeschätzt werden kann (siehe §2.5).
+
+Ausserhalb der regulären Überprüfungen, dürfen ausschließlich unbewertete und freiwillige Schriftliche Leistungsbelege geführt werden. 
+
+### $1.5 Behandlung eines Schülers im falle von zweifelhaftem Umgang mit anderen
+Jede Schule muss einen Lehrer durch die Schüler wählen lassen, der zusätzlich zu seiner Lehrfunktion als Schulrichter fungieren muss. 
+
+Dieser soll Strafen bei schlechtem Umgang seitens Lehrern und Schülern verhängen. Sollte der Schulrichter befangen sein, muss der Schuldirektor als Schulrichter fungieren.
+
+Als zweifelhafter Umgang seitens zählen u.a.:
+
+<ul>
+<li> Körperliche verletzung.
+<li> Herabwertender Umgang aller art.
+<li> Unnötiges stören des Unterrichts trotz mehrfacher Ermahnung (Inerschüleriche Komunikation sollte abe nicht bestraft, sondern gefördert werden).
+</ul>
+
+Es dürfen generell alle Taten dem Schulrichter gemeldet werden, dennoch hat dieser alleinig das Recht Strafen zu verhängen.
+
+Sollte eine Strafe nicht wahrgenommen werden, darf der Schüler nach mehrmaliger Wiederholung der Schule verwiesen werden. 
 
 
+Alle Strafen müssen einen Pedagogischen Wert haben, dürfen nicht die Würde des Schülers verletzen und dürfen nur bedingt das Schulgesetz verletzen (z.B: Hausaufgaben). Eine Strafe sollte im allgemeinem nicht länger als eine Stunde, in Extremfällen 5 Stunden dauern.
+
+Sollte der Schulrichter einen Schüler falsch bestrafen oder ihm unerlaubte Strafen verhängen, darf der Direktor der Schule informiert werden, der eine Neuwahl des Schulrichters veranlassen kann.
+
+## §2 Innerunterrichtlicher Umgang
+Innerhalb des Unerrichts muss die Arbeitsatmosphäre richtig sein, damit der Schüler richtig lernen kann.
+
+### §2.1 Hausaufgaben
+Hausafgaben sind definierbar als Schulische Aufgaben, die zuhause zu machen sind. Diese müssen in jedem Fach mindestens einmal pro Woche vergeben werden, die Bearbeitung muss jedoch freiwillig bleiben. Der Schüler darf nicht bestraft werden, dafür dass er Hausaufgaben nicht gemacht hat (Ausnahme: durch den Schulrichter verhängte Strafhausaufgaben, siehe §1.5).
+
+### §2.2 Schulische Materialien
+Es dürfen keine Lehrmaterialien ausser einem Block kariertem Papier, einem Block Liniertem Papier, einer Heftmappe und einem Mäppchen mit folgenden Utensilien vorausgesetzt werden:
+
+<ul>
+<li> Füllfederhalter
+<li> Klebstoff
+<li> Geometriedreieck mit Gradzahlen
+<li> Lineal
+<li> Schere
+<li> 12 verschiedenfarbige Hozstifte
+</ul>
+
+Zusätzlich dürfen Arbeitsmaterialien in Form von Papier oder drei Dimensionalen Drucken durch den Lehrer verteilt werden.
+
+Ein Schüler darf nicht gezwungen werden, schriftliche Notizen des Unterrichts zu machen. Schriftliche Notizen dürfen auch nicht bewertet werden. 
+
+### §2.3 
 
 
+---------------------------------------------
 
 Split by ability and not by age
 
