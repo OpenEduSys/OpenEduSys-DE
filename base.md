@@ -1,134 +1,122 @@
 ## Vorwort
 
-Das deutsche Schulsystem wurde lange nichtmehr verändert, weshalb viele deutsche Bürger den Eindruck haben, ihr Kinder würden nicht mehr für das Leben vorbereitet.
+Das deutsche Schulsystem wurde lange nicht mehr verändert, weshalb viele deutsche Bürger den Eindruck haben, ihre Kinder würden nicht mehr für das Leben vorbereitet.
 
 Diese von der Allgemeinheit verfasste Schulreform ist nicht als solche zu sehen, sondern als Anregung an die Politik, unser Schulsystem grundlegend zu ändern.
 Da jeder beim Verfassen helfen darf, wird sichergestellt, dass jeder das Ergebnis als solches unterstützen kann.
 
 ### Der Sinn von Schule
 
-Schule wurde so konzipiert, dass der Schüler sich maximal viele kleinlichen Details einprägt. Doch in einer Welt, in der diese Fakten und Daten so nah, wie noch nie zuvor, sind, ist diese Einprägen nur eine Bremse für das beibringen von wichtigen Konzepten. Die Reform soll deshalb den Lehrplan so ändern, dass Praxis und Spass im Vordergrund steht. Die angeborene Neugier soll weiter gefördert werden.
+Schule wurde so konzipiert, dass der Schüler sich maximal viele kleinlichen Details einprägt. Doch in einer Welt, in der diese Fakten und Daten so nah, wie noch nie zuvor, sind, ist diese Einprägen nur eine Bremse für das beibringen von wichtigen Konzepten. Die Reform soll deshalb den Lehrplan so ändern, dass Praxis und Spaß im Vordergrund steht. Die angeborene Neugier soll weiter gefördert werden.
 
 ### Schüler
 Kinder und damit Schüler sind von Geburt an sehr neugierig. Diese Neugier wird aber durch einseitigen Unterricht verschwendet.
 
-Jeder Schüler lernt anders besser. So sollte ein Lehrer so viele Lerntypen wie möglich ansprechen. Praktisches trainieren, singen, malen etc. alles sind valide möglichkeiten, einen Schüler zum lernen der wenigen notwendigen Fakten anzuregen.
-Auch sollte dem Schüler soviel wie möglich die Mitwahl an tätigkeiten gelassen werden. Wenn der Schüler nicht an einer bestimmten Aufgabe teilnehmen, soll dies ihm gestattet werden, insofern, der Schüler schon das nötige Niveau besitzt. Auch sollte die Lernumgebung freundlicher gestaltet werden (siehe §1).
+Jeder Schüler lernt anders besser. So sollte ein Lehrer so viele Lerntypen wie möglich ansprechen. Praktisches trainieren, singen, malen etc. alles sind valide Möglichkeiten, einen Schüler zum lernen der wenigen notwendigen Fakten anzuregen.
+Auch sollte dem Schüler so viel wie möglich die Mitwahl an Tätigkeiten gelassen werden. Wenn der Schüler nicht an einer bestimmten Aufgabe teilnehmen möchte, soll dies ihm gestattet werden, insofern der Schüler schon das nötige Niveau besitzt. Auch sollte die Lernumgebung freundlicher gestaltet werden (siehe §1).
 
-### Lehrer 
-Lehrer werden oft untergeschätzt. So werden diese sehr niedrig bezahlt, obwohl sie jeden tag bis spät in die Nacht arbeiten.
-Sie bekommen wenig Zeit um ihre Lehrmethoden zu verbessern, was dann direkt dem Schüler beim Lernen beinträchtigt. Ausserdem müssen Lehrer oft immer dasselbe wiederholen, weshalb desinteresse am unterrichtetem Fach oft die Folge ist.
+### Lehrer
+Lehrer werden oft untergeschätzt. So werden diese sehr niedrig bezahlt, obwohl sie jeden Tag bis spät in die Nacht arbeiten.
+Sie bekommen wenig Zeit um ihre Lehrmethoden zu verbessern, was dann direkt dem Schüler beim Lernen beeinträchtigt. Außerdem müssen Lehrer oft immer dasselbe wiederholen, weshalb Desinteresse am unterrichtetem Fach oft die Folge ist.
 
-Oft sehen Lehrer sich auch als "über" den unterrichtetem Kind. Dieses Verhältniss ist falsch; Lehrer sollten sich eher als "Lernpartner" sehen, die auch Schülern beim lernen von zusätzlichem Stoff helfen sollten.
+Oft sehen Lehrer sich auch als "über" den unterrichtetem Kind. Dieses Verhältnis ist falsch; Lehrer sollten sich eher als "Lernpartner" sehen, die auch Schülern beim Lernen von zusätzlichem Stoff helfen sollten.
 
 
 # Schulgesetz: Änderungsvorschläge
 
 ## §1 Infrastruktur
-Die Infrastruktur ist einer der Wichtigen Punkte, da sie den Schüler jeden Tag begleitet. 
+Die Infrastruktur ist einer der wichtigen Punkte, da sie den Schüler jeden Tag begleitet.
 
 
 ### §1.1 Deutschlandweite Infrastruktur
 In allen Schulen aus Deutschland muss der Lehrplan, die Infrastruktur und das Schulgesetz gleich sein. Dadurch soll gesichert werden, dass das Bildungsniveau deutschlandweit gleich ist. Es dürfen nur die folgenden Fächer zusätzlich angeboten werden:
 
-<ul>
-<li> Fremdsprachen ausser Englisch
-<li> Religiöse Ausbildung
-<li> Ethische Ausbildung
-<li> Sportliche Aussbildung
-</ul>
+* Fremdsprachen ausser Englisch
+* Religiöse Ausbildung
+* Ethische Ausbildung
+* Sportliche Aussbildung
 
 Andere Fächer müssen als Arbeitsgemeinschaften angeboten werden.
 
-Das Abitur muss nach dem 12. Lehrgang angeboten werden, nach dem Abitur darf jedoch ein optioneller Lehrgang angeboten werden. 
+Das Abitur muss nach dem 12. Lehrgang angeboten werden, nach dem Abitur darf jedoch ein optionaler Lehrgang angeboten werden.
 
 ### §1.2 Schulische Infrastruktur
-In jeder schule muss jedem Schüler eine Stunde pro Woche kostenlose Psychologische Hilfe angeboten werden, sollte dieser sich in seiner Lernumgebung unwohl fühlen. Sollte der Psychologe ermessen, dass der Schüler keine Hilfe braucht, darf dieser seine Hilfe nach zwei Therapiestunden verweigern. Bei solch einer Verweigerung darf der Schüler diesen Dienst zwei Monate lang nicht mehr in Anspruch nehmen.
+In jeder Schule muss jedem Schüler eine Stunde pro Woche kostenlose psychologische Hilfe angeboten werden, sollte dieser sich in seiner Lernumgebung unwohl fühlen. Sollte der Psychologe ermessen, dass der Schüler keine Hilfe braucht, darf dieser seine Hilfe nach zwei Therapiestunden verweigern. Bei solch einer Verweigerung darf der Schüler diesen Dienst zwei Monate lang nicht mehr in Anspruch nehmen.
 
-Ausserdem muss jede Schule einen abgesperrten Aussenraum haben, der für pro Schüler mindestens 3m² gross sein muss, in den Schüler wärend der Pause gehen dürfen. Ein weiterer Innenraum sollte ausserdem bereitgestellt werden, in den Schüler ebenfalls während der Pause gehen dürfen.
+Außerdem muss jede Schule einen abgesperrten Außenraum haben, der pro Schüler mindestens 3m² gross sein muss, in den Schüler während der Pause gehen dürfen. Ein weiterer Innenraum sollte außerdem bereitgestellt werden, indem Schüler ebenfalls während der Pause gehen dürfen.
 
 Ein kostenloser Internetzugang sollte jedem Schüler bereitgestellt werden. Dieser muss jedoch mit einem Filter für nicht jugendfreie Inhalte ausgestattet werden.
 
 ### §1.3 Ferien
-Jeder Schüler muss gleichviele Ferien bekommen. An Feiertagen muss der Schule temporär von der Schule befreit werden.
+Jeder Schüler muss die gleiche Anzahl an Ferien bekommen. An Feiertagen muss der Schüler temporär von der Schule befreit werden.
 
-Ausserhalb dieser Freien Zeit sollte jeder Schüler über zwanzig Tagen verfügen, an denen er sich von der Schule befreien darf.
-Bei krankheit darf der Schüler sich auch befreien lassen, wenn er mehr als zwanzig Tage schon abgemeldet war.
+Ausserhalb dieser freien Zeit sollte jeder Schüler über zwanzig Tagen verfügen, an denen er sich von der Schule befreien darf.
+Bei Krankheit darf der Schüler sich auch befreien lassen, wenn er mehr als zwanzig Tage schon abgemeldet war.
 
 ### §1.4 Bewertung
 
-Nach einem Beendetem Jahr muss eine Schriftliche bewertung durch die Lehrer geschehen.
+Nach einem beendetem Jahr muss eine Schriftliche Bewertung durch die Lehrer geschehen.
 Solch eine Bewertung soll als Richtwert für die Eltern gelten.
 
 Am Ende eines Schuljahres muss jeder Schüler eine Überprüfung, Inhaltlich vom Lehrplan festgelegt, bestehen, damit seine neue Klassenstufe eingeschätzt werden kann (siehe §2.5).
 
-Ausserhalb der regulären Überprüfungen, dürfen ausschließlich unbewertete und freiwillige Schriftliche Leistungsbelege geführt werden. 
+Ausserhalb der regulären Überprüfungen, dürfen ausschließlich unbewertete und freiwillige Schriftliche Leistungsbelege geführt werden.
 
 ### $1.5 Behandlung eines Schülers im falle von zweifelhaftem Umgang mit anderen
-Jede Schule muss einen Lehrer durch die Schüler wählen lassen, der zusätzlich zu seiner Lehrfunktion als Schulrichter fungieren muss. 
+Jede Schule muss einen Lehrer durch die Schüler wählen lassen, der zusätzlich zu seiner Lehrfunktion als Schulrichter fungieren muss.
 
 Dieser soll Strafen bei schlechtem Umgang seitens Lehrern und Schülern verhängen. Sollte der Schulrichter befangen sein, muss der Schuldirektor als Schulrichter fungieren.
 
 Als zweifelhafter Umgang seitens zählen u.a.:
 
-<ul>
-<li> Körperliche verletzung.
-<li> Herabwertender Umgang aller art.
-<li> Unnötiges stören des Unterrichts trotz mehrfacher Ermahnung (Inerschüleriche Komunikation sollte abe nicht bestraft, sondern gefördert werden).
-</ul>
+* Körperliche Verletzung.
+* Herabwertender Umgang aller art.
+* Unnötiges stören des Unterrichts trotz mehrfacher Ermahnung (Innerschüleriche Kommunikation sollte aber nicht bestraft, sondern gefördert werden).
 
 Es dürfen generell alle Taten dem Schulrichter gemeldet werden, dennoch hat dieser alleinig das Recht Strafen zu verhängen.
 
-Sollte eine Strafe nicht wahrgenommen werden, darf der Schüler nach mehrmaliger Wiederholung der Schule verwiesen werden. 
+Sollte eine Strafe nicht wahrgenommen werden, darf der Schüler nach mehrmaliger Wiederholung der Schule verwiesen werden.
 
-
-Alle Strafen müssen einen Pedagogischen Wert haben, dürfen nicht die Würde des Schülers verletzen und dürfen nur bedingt das Schulgesetz verletzen (z.B: Hausaufgaben). Eine Strafe sollte im allgemeinem nicht länger als eine Stunde, in Extremfällen 5 Stunden dauern.
+Alle Strafen müssen einen pädagogischen Wert haben, dürfen nicht die Würde des Schülers verletzen und dürfen nur bedingt das Schulgesetz verletzen (z.B: Hausaufgaben). Eine Strafe sollte im allgemeinem nicht länger als eine Stunde, in Extremfällen 5 Stunden dauern.
 
 Sollte der Schulrichter einen Schüler falsch bestrafen oder ihm unerlaubte Strafen verhängen, darf der Direktor der Schule informiert werden, der eine Neuwahl des Schulrichters veranlassen kann.
 
 ## §2 Innerunterrichtlicher Umgang
-Innerhalb des Unerrichts muss die Arbeitsatmosphäre richtig sein, damit der Schüler richtig lernen kann.
+Innerhalb des Unterrichts muss die Arbeitsatmosphäre richtig sein, damit der Schüler richtig lernen kann.
 
 ### §2.1 Hausaufgaben
-Hausafgaben sind definierbar als Schulische Aufgaben, die zuhause zu machen sind. Diese müssen in jedem Fach mindestens einmal pro Woche vergeben werden, die Bearbeitung muss jedoch freiwillig bleiben. Der Schüler darf nicht bestraft werden, dafür dass er Hausaufgaben nicht gemacht hat (Ausnahme: durch den Schulrichter verhängte Strafhausaufgaben, siehe §1.5).
+Hausaufgaben sind definierbar als schulische Aufgaben, die zu Hause zu machen sind. Diese müssen in jedem Fach mindestens einmal pro Woche vergeben werden, die Bearbeitung muss jedoch freiwillig bleiben. Der Schüler darf nicht dafür bestraft werden, dass er Hausaufgaben nicht gemacht hat (Ausnahme: durch den Schulrichter verhängte Strafhausaufgaben, siehe §1.5).
 
 ### §2.2 Schulische Materialien
-Es dürfen keine Lehrmaterialien ausser einem Block kariertem Papier, einem Block Liniertem Papier, einer Heftmappe und einem Mäppchen mit folgenden Utensilien vorausgesetzt werden:
+Es dürfen keine Lehrmaterialien ausser einem Block kariertem Papier, einem Block liniertem Papier, einer Heftmappe und einem Mäppchen mit folgenden Utensilien vorausgesetzt werden:
 
-<ul>
-<li> Füllfederhalter
-<li> Klebstoff
-<li> Geometriedreieck mit Gradzahlen
-<li> Lineal
-<li> Schere
-<li> 12 verschiedenfarbige Hozstifte
-</ul>
+* Füllfederhalter
+* Klebstoff
+* Geometriedreieck mit Gradzahlen
+* Lineal
+* Schere
+* 12 verschiedenfarbige Holzstifte
 
-Zusätzlich dürfen Arbeitsmaterialien in Form von Papier oder drei Dimensionalen Drucken durch den Lehrer verteilt werden.
+Zusätzlich dürfen Arbeitsmaterialien in Form von Papier oder dreidimensionalen Drucken durch den Lehrer verteilt werden.
 
-Ein Schüler darf nicht gezwungen werden, schriftliche Notizen des Unterrichts zu machen. Schriftliche Notizen dürfen auch nicht bewertet werden. 
+Ein Schüler darf nicht gezwungen werden, schriftliche Notizen des Unterrichts zu machen. Schriftliche Notizen dürfen auch nicht bewertet werden.
 
 ### §2.3 Unterricht
 
-Wärend des Unterrichts muss der Lehrer seinen Schülern die vom Lehrplan festgelegte Inhalte beibringen.
+Während des Unterrichts muss der Lehrer seinen Schülern die vom Lehrplan festgelegte Inhalte beibringen.
 Hierbei muss er darauf aufpassen, seine Schüler immer einzubeziehen. Eine gute Grundregel ist, dass der Lehrer alle 3 Minuten einen Schüler zum beitragen beim Unterricht motivieren sollte.
 
-Schüler dürfen wärend des Gesamten Unterrichtes 
+Schüler dürfen während des Gesamten Unterrichtes
 
-<ul>
-<li> Musik über Kopfhörer hören
-<li> Kaugummi kauen
-<li> Ihr handy benutzen
-</ul>
+* Musik über Kopfhörer hören
+* Kaugummi kauen
+* Ihr Handy benutzen
 
-Der Lehrer darf dies jedoch in folgenen spezifischen Fällten verbieten:
+Der Lehrer darf dies jedoch in folgenden spezifischen Fällten verbieten:
 
-<ul>
-<li> Gefährdung durch das Kaugummikauen (z.B. in Fachsäälen)
-<li> Nachweislich zu niedriges Niveau des Schülers (folgt dem Unterricht nicht, kann keine Positiven Beiträge leisten)
-<li> Störung anderer Schüler
-</ul>
-
+* Gefährdung durch das Kaugummikauen (z.B. in Fachsäälen)
+* Nachweislich zu niedriges Niveau des Schülers (folgt dem Unterricht nicht, kann keine positiven Beiträge leisten)
+* Störung anderer Schüler
 
 ---------------------------------------------
 
