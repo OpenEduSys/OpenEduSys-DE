@@ -3,9 +3,7 @@ Lehrsystem, dass den alten Lehrplan und seine Regeln grundsätzlich umstrukturie
 ## Mitmachen
 Jeder darf mitmachen. So kann sichergestellt, dass dieses Schulsystem so vielseitig wie möglich ist.
 
-Um mitzumachen, müssen Sie zuerst die Dateien herunterladen und mit einem Texteditor ihrer Wahl öffnen (LibreOffice wird empfohlen). Ändern Sie nun den Lehrplan nach ihrem Wunsch. Damit ihre Änderungen global verfügbar sind, müssen Sie diese auf github hochgeladen werden; dazu brauchen Sie ein Github-Konto. Nach dem Hochladen wird ihr Eintrag von einem Administrator überprüft und gegebenfalls gespeichert.
-
-Sollten Sie problem haben, können Sie mich unter wittmaxi@outlook.de kontaktieren. 
+Um mitzumachen, müssen Sie zuerst die Dateien herunterladen und mit einem Texteditor ihrer Wahl öffnen (LibreOffice wird empfohlen). Ändern Sie nun den Lehrplan nach ihrem Wunsch. Damit ihre Änderungen global verfügbar sind, müssen Sie diese auf github hochgeladen werden; dazu brauchen Sie ein Github-Konto. Nach dem Hochladen wird ihr Eintrag von einem Administrator überprüft und gegebenfalls gespeichert. 
 
 ### Administratoren
 
